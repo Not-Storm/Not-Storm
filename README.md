@@ -17,4 +17,4 @@ Hey, well I am just another weeb you will find out here. I am just a student who
 <h1 align="center">Well Why Not?</h1>
 <p align="center"><img src="https://media.tenor.com/images/24eb4729f69b63620c80f31fb59c3ca0/tenor.gif"width=300>
 
-P.S - Sorry for that tee hee also for so many images, I neither know html nor MD :(
+P.S - Sorry for that also sorry for so many images, I neither know html nor MD so I just had to try stuff until it worked :(
